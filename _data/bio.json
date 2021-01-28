@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Lionel Courteau",
+    "label": "Computer Science Graduate",
+    "picture": "https://Lionel-Courteau.github.io/images/Lionel-ProfileImage.jpg",
+    "email": "lionel021496@gmail.com",
+    "phone": "808-465-5202",
+    "website": "https://Lionel-Courteau.github.io",
+    "summary": "I have graduated from Hawaii Pacific University with a B.S. in Computer and Information Sciences. I'm ready and available for employment",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,42 +17,32 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Lionel-Courteau",
+        "url": "http://github.com/Lionel-Courteau"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "lionel-courteau",
+        "url": "http://www.linkedin.com/in/lionel-courteau-5024a01b5"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "data analysis",
       "keywords": [
+      ]
+    },
+    {
+      "name": "mathematics",
+      "keywords": [
+        "cryptography",
+        "statistics"
       ]
     }
   ],
@@ -66,7 +56,9 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Python",
+        "R",
+        "SQL"
       ]
     },
     {
@@ -74,7 +66,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
@@ -83,55 +75,40 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Hawaii Pacific University, Honolulu, HI",
+      "area": "Computer Science (Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2014-09-01",
+      "endDate": "2020-05-08",
+      "gpa": "3.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Amazon Robotics",
+      "position": "Data Analyst Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-06-01",
+      "endDate": "2020-08-21",
+      "summary": "Assisted in the collection and management of company data.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaiian Airlines",
+      "position": "Data Analyst Intern",
+      "website": "",
+      "startDate": "2015-06-01",
+      "endDate": "2016-08-21",
+      "summary": "Assisted in the collection and management of company data.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
+   
     {
       "organization": "",
       "website": "",
@@ -148,16 +125,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Lokahi Grant Scholarship",
+      "date": "2014-2016",
+      "awarder": "Hawaii Pacific",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "College Capstone",
+      "date": "2020",
+      "awarder": "Hawaii Capstone Symposium",
+      "summary": "My team participated in 2020.  See my portfolio site for more details."
     }
   ],
   "references": [
