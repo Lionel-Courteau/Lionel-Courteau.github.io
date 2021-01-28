@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Lionel Courteau",
+    "label": "Computer Science Graduate",
+    "picture": "https://Lionel-Courteau.github.io/images/Lionel-ProfileImage.jpg",
+    "email": "lionel021496@gmail.com",
+    "phone": "808-465-5202",
+    "website": "https://Lionel-Courteau.github.io",
+    "summary": "I have graduated from Hawai'i Pacific University with a B.S. in Computer and Information Sciences. I'm ready and available for employment",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Lionel-Courteau",
+        "url": "http://github.com/Lionel-Courteau"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
