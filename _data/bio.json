@@ -135,6 +135,18 @@
       "date": "2020",
       "awarder": "Hawaii Capstone Symposium",
       "summary": "My team participated in 2020.  See my portfolio site for more details."
+    },
+    {
+      "title": "Data Scientist's Toolbox Certificate",
+      "date": "2021",
+      "awarder": "John Hopkins University (Coursera)",
+      "summary": "Proof of successful course completion."
+    },
+    {
+      "title": "R-Programming Certificate",
+      "date": "2021",
+      "awarder": "John Hopkins University (Coursera)",
+      "summary": "Proof of successful course completion."
     }
   ],
   "references": [
